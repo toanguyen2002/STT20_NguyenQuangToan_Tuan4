@@ -7,10 +7,10 @@ import Layout4 from './component/Layout4';
 
 export default function App() {
   return (
-    // <Layout1 />
+    <Layout1 />
     // <Layout2 />
     // <Layout3 />
-    <Layout4 />
+    // <Layout4 />
 
 
   );
